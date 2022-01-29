@@ -10,7 +10,7 @@
 
 #### Skills and Tools
 
-<img alt="HTML" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/html5.svg" />&nbsp;<img alt="CSS" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/css3.svg" />
+<img alt="HTML" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/html5.svg" />&nbsp; <img alt="CSS" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/css3.svg" />
 &nbsp;<img alt="SASS" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/sass.svg" />
 &nbsp;<img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/javascript.svg" />
 &nbsp;<img alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/typescript.svg" />
@@ -20,6 +20,6 @@
 &nbsp;<img alt="ExpressJS" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/express.svg" />
 &nbsp;<img alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/mongodb.svg" />
 
-<img alt="git" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/git.svg" />&nbsp;<img alt="npm" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/npm.svg" />
+<img alt="git" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/git.svg" />&nbsp; <img alt="npm" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/npm.svg" />
 &nbsp;<img alt="Webpack" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/webpack.svg" />
 &nbsp;<img alt="Linux" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/linux.svg" />
