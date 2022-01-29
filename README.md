@@ -22,7 +22,6 @@
 
 <br />
 
-<img alt="git" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/git.svg" />
-&nbsp;<img alt="npm" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/npm.svg" />
+<img alt="git" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/git.svg" />&nbsp;<img alt="npm" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/npm.svg" />
 &nbsp;<img alt="Webpack" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/webpack.svg" />
 &nbsp;<img alt="Linux" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/linux.svg" />
