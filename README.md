@@ -10,8 +10,7 @@
 
 #### Skills and Tools
 
-<img alt="HTML" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/html5.svg" />
-<img alt="CSS" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/css3.svg" />
+<img alt="HTML" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/html5.svg" /> <img alt="CSS" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/css3.svg" />
 &nbsp;<img alt="SASS" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/sass.svg" />
 &nbsp;<img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/javascript.svg" />
 &nbsp;<img alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/typescript.svg" />
