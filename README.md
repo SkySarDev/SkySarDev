@@ -18,7 +18,6 @@
 &nbsp;<img alt="Redux" width="30px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/redux.svg" />
 &nbsp;<img alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/nodejs.svg" />
 &nbsp;<img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/mongodb.svg" />
-<img alt="ExpressJS" width="30px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/express.svg" />
 
 <img alt="git" width="30px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/git.svg" />&nbsp; <img alt="npm" width="30px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/npm.svg" />
 &nbsp;<img alt="Webpack" width="30px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/webpack.svg" />
