@@ -5,7 +5,7 @@
 - 🔭 I’m currently looking for a job
 - :nerd_face: I’m currently learning: TypeScript, Ant Design
 - :thinking: I want to learn: NextJS, GraphQL
-- 📫 How to contact me: [Email](mailto:skysar@ya.ru) | [Telegram](https://t.me/skysar_dev) | [WebSite](https://skysar.site)
+- 📫 How to contact me: [Email](mailto:skysar@ya.ru) | [Telegram](https://t.me/skysar_dev) | [WebSite](https://skysar.tech)
 
 #### Skills and Tools
 
