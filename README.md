@@ -1,12 +1,11 @@
 ### Hi there! I'm Maxim aka SkySar 👋
 
 #### About me
+
 - 🔭 I’m currently looking for a job
 - :nerd_face: I’m currently learning: TypeScript, Ant Design
 - :thinking: I want to learn: NextJS, GraphQL
 - 📫 How to contact me: [Email](mailto:skysar@ya.ru) | [Telegram](https://t.me/skysar_dev) | [WebSite](https://skysar.site)
-
-
 
 #### Skills and Tools
 
@@ -15,6 +14,7 @@
 &nbsp;<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/javascript.svg" />
 &nbsp;<img alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/typescript.svg" />
 &nbsp;<img alt="React" width="30px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/react.svg" />
+&nbsp;<img alt="NextJS" width="30px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/nextjs.svg" />
 &nbsp;<img alt="Redux" width="30px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/redux.svg" />
 &nbsp;<img alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/nodejs.svg" />
 <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/skysardev/skysardev/master/assests/mongodb.svg" />
